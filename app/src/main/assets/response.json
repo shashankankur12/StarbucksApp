@@ -1,0 +1,2458 @@
+{
+  "page": 1,
+  "per_page": 25,
+  "total": 50,
+  "total_pages": 2,
+  "stores": [
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "80556-309819",
+      "id": "1051446",
+      "name": "Raj Nagar District Centre",
+      "distance": 1,
+      "coordinates": {
+        "latitude": 28.6744,
+        "longitude": 77.44006
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Carnival Banquet",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Ghaziabad",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201002"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Carnival Banquet",
+        "Ghaziabad, UP 201002"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "raj-nagar-district-centre-carnival-banquet-ghaziabad-up-201002-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "78520-308530",
+      "id": "1045076",
+      "name": "Shipra Mall",
+      "distance": 2.2,
+      "coordinates": {
+        "latitude": 28.63422,
+        "longitude": 77.37057
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Shipra Mall",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Ghaziabad",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201014"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Shipra Mall",
+        "Ghaziabad, UP 201014"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "shipra-mall-shipra-mall-ghaziabad-up-201014-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "73019-307240",
+      "id": "1045049",
+      "name": "Binge Central NOIDA",
+      "distance": 2.6,
+      "coordinates": {
+        "latitude": 28.62117,
+        "longitude": 77.35583
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Sector 63 NOIDA",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Noida",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201309"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Sector 63 NOIDA",
+        "Noida, UP 201309"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "binge-central-noida-sector-63-noida-noida-up-201309-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "82219-311681",
+      "id": "1053401",
+      "name": "Golden I",
+      "distance": 3.2,
+      "coordinates": {
+        "latitude": 28.5909,
+        "longitude": 77.43524
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Ghaziabad Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Greater Noida",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201009"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Ghaziabad Road",
+        "Greater Noida, UP 201009"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "golden-i-ghaziabad-road-greater-noida-up-201009-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "70828-305813",
+      "id": "1043740",
+      "name": "Spectrum, Noida",
+      "distance": 4,
+      "coordinates": {
+        "latitude": 28.57315,
+        "longitude": 77.37898
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Service Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "GF-49E,GF-48A,GF-47C & GF47B",
+        "city": "Noida",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201304"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Service Road",
+        "Noida, UP 201304"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "spectrum-noida-service-road-gf-49-e-gf-48-a-gf-47-c-gf-47-b-noida"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "23391-229967",
+      "id": "1008699",
+      "name": "DLF Mall of India",
+      "distance": 4.2,
+      "coordinates": {
+        "latitude": 28.57083,
+        "longitude": 77.3238
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Sector 18, Noida",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Noida",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201301"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Sector 18, Noida",
+        "Noida, UP 201301"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "dlf-mall-of-india-sector-18-noida-noida-up-201301-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "25065-239844",
+      "id": "1013604",
+      "name": "Gardens Galleria",
+      "distance": 4.1,
+      "coordinates": {
+        "latitude": 28.56724,
+        "longitude": 77.32563
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Ground Floor, Gardens Galleria",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Sector 16",
+        "city": "Noida",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201301"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Ground Floor, Gardens Galleria",
+        "Noida, UP 201301"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "gardens-galleria-ground-floor-gardens-galleria-sector-16-noida-up-2"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "59409-293639",
+      "id": "1026387",
+      "name": "Mall of India 2",
+      "distance": 4.7,
+      "coordinates": {
+        "latitude": 28.56743,
+        "longitude": 77.32106
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Plot No - M 03, Sector 18",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "E442, Third Floor",
+        "city": "Noida",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201301"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Plot No - M 03, Sector 18",
+        "Noida, UP 201301"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "mall-of-india-2-plot-no-m-03-sector-18-e-442-third-floor-noida-up-"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "61989-296487",
+      "id": "1029441",
+      "name": "Berger Tower",
+      "distance": 4.8,
+      "coordinates": {
+        "latitude": 28.57441,
+        "longitude": 77.31262
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Sector 16 B",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Ground Floor, Berger Tower",
+        "city": "Noida",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201301"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Sector 16 B",
+        "Noida, UP 201301"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "berger-tower-sector-16-b-ground-floor-berger-tower-noida-up-201"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "66860-301501",
+      "id": "1031661",
+      "name": "Skymark One",
+      "distance": 5.1,
+      "coordinates": {
+        "latitude": 28.53131,
+        "longitude": 77.36186
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "H/10 Bhatalpur Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Noida",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201303"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": null,
+        "olsonTimeZoneId": "GMT+00:00 Asia/Kolkata"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "H/10 Bhatalpur Road",
+        "Noida, UP 201303"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "skymark-one-h-10-bhatalpur-road-noida-up-201303-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "80915-310187",
+      "id": "1052329",
+      "name": "Add India Tower, Sector 125",
+      "distance": 5.3,
+      "coordinates": {
+        "latitude": 28.54563,
+        "longitude": 77.32869
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Sector 125 Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Noida",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201301"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Sector 125 Road",
+        "Noida, UP 201301"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "add-india-tower-sector-125-sector-125-road-noida-up-201301-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "78703-308752",
+      "id": "1045080",
+      "name": "Meerut Expressway",
+      "distance": 5.6,
+      "coordinates": {
+        "latitude": 28.73451,
+        "longitude": 77.55803
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "SERVICE Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Ghaziabad Sub-District",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201015"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "SERVICE Road",
+        "Ghaziabad Sub-District, UP 201015"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "meerut-expressway-service-road-ghaziabad-sub-district-up-201015-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "58117-292247",
+      "id": "1026333",
+      "name": "Advant Noida",
+      "distance": 5.6,
+      "coordinates": {
+        "latitude": 28.50073,
+        "longitude": 77.41012
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Plot #7, Noida-Greater Noida Expy",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Sector 142",
+        "city": "Noida",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201305"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Plot #7, Noida-Greater Noida Expy",
+        "Noida, UP 201305"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "advant-noida-plot-7-noida-greater-noida-expy-sector-142-noida-u"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "22570-222670",
+      "id": "1008457",
+      "name": "N Block CP",
+      "distance": 5.5,
+      "coordinates": {
+        "latitude": 28.63028,
+        "longitude": 77.22058
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "N 16, N Block",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Outer Circle, Connaught Place",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110001"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "N 16, N Block",
+        "New Delhi, DL 110001"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "n-block-cp-n-16-n-block-outer-circle-connaught-place-new-delh"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "51240-277740",
+      "id": "1019368",
+      "name": "Khan Market",
+      "distance": 5.7,
+      "coordinates": {
+        "latitude": 28.60026,
+        "longitude": 77.22675
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Khan Market, New Delhi",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110003"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Khan Market, New Delhi",
+        "New Delhi, DL 110003"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "khan-market-khan-market-new-delhi-new-delhi-dl-110003-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "19063-198205",
+      "id": "113991",
+      "name": "Hamilton House",
+      "distance": 6,
+      "coordinates": {
+        "latitude": 28.63218,
+        "longitude": 77.21775
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Hamilton House",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "A Block, Inner Circle",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110001"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Hamilton House",
+        "New Delhi, DL 110001"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "hamilton-house-hamilton-house-a-block-inner-circle-new-delhi-dl-1"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "60299-294522",
+      "id": "1027238",
+      "name": "Defence Colony",
+      "distance": 6.7,
+      "coordinates": {
+        "latitude": 28.57285,
+        "longitude": 77.23694
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Block D, Defence Colony",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "D 27, Ground Floor",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110024"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Block D, Defence Colony",
+        "New Delhi, DL 110024"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "defence-colony-block-d-defence-colony-d-27-ground-floor-new-delhi"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "19518-200666",
+      "id": "1005202",
+      "name": "Nehru Place",
+      "distance": 7.3,
+      "coordinates": {
+        "latitude": 28.55114,
+        "longitude": 77.25178
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Lower Ground Floor",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Nehru Place Metro Station",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110064"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Lower Ground Floor",
+        "New Delhi, DL 110064"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "nehru-place-lower-ground-floor-nehru-place-metro-station-new-d"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "57068-291072",
+      "id": "1024258",
+      "name": "Shivaji Stadium",
+      "distance": 7.8,
+      "coordinates": {
+        "latitude": 28.62881,
+        "longitude": 77.21141
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Baba Kharak Singh Rd, Hanuman Road Area",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Connaught Place",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110001"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Baba Kharak Singh Rd, Hanuman Road Area",
+        "New Delhi, DL 110001"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "shivaji-stadium-baba-kharak-singh-rd-hanuman-road-area-connaught-p"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "66859-301502",
+      "id": "1031662",
+      "name": "Kamla Nagar",
+      "distance": 7.7,
+      "coordinates": {
+        "latitude": 28.67922,
+        "longitude": 77.20812
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Chhatra Marg",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110007"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": null,
+        "olsonTimeZoneId": "GMT+00:00 Asia/Kolkata"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Chhatra Marg",
+        "New Delhi, DL 110007"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "kamla-nagar-chhatra-marg-new-delhi-dl-110007-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "65286-299578",
+      "id": "1030469",
+      "name": "N Block",
+      "distance": 8.1,
+      "coordinates": {
+        "latitude": 28.55685,
+        "longitude": 77.23289
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "GK 1",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "N2",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110048"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "GK 1",
+        "New Delhi, DL 110048"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "n-block-gk-1-n-2-new-delhi-dl-110048-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "20176-203905",
+      "id": "1005335",
+      "name": "GK 1",
+      "distance": 8.2,
+      "coordinates": {
+        "latitude": 28.54965,
+        "longitude": 77.23641
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "M Block Market",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Greater Kailash 1",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110048"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "M Block Market",
+        "New Delhi, DL 110048"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "gk-1-m-block-market-greater-kailash-1-new-delhi-dl-1100"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "59105-293278",
+      "id": "1025309",
+      "name": "South Extension II",
+      "distance": 9.3,
+      "coordinates": {
+        "latitude": 28.56815,
+        "longitude": 77.22027
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "South Extension Part II, New Delhi",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "E 21",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110049"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "South Extension Part II, New Delhi",
+        "New Delhi, DL 110049"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "south-extension-ii-south-extension-part-ii-new-delhi-e-21-new-delhi-d"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "70534-305420",
+      "id": "1042807",
+      "name": "B3 Pusa Road",
+      "distance": 9.4,
+      "coordinates": {
+        "latitude": 28.64529,
+        "longitude": 77.19576
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Pusa Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110005"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Pusa Road",
+        "New Delhi, DL 110005"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "b-3-pusa-road-pusa-road-new-delhi-dl-110005-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "22572-222668",
+      "id": "1006862",
+      "name": "GK 2",
+      "distance": 9.7,
+      "coordinates": {
+        "latitude": 28.53408,
+        "longitude": 77.24283
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Ground Floor, M-11",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "M-Block, Main Mrkt, Greater Kailash Pt2",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110048"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Ground Floor, M-11",
+        "New Delhi, DL 110048"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "gk-2-ground-floor-m-11-m-block-main-mrkt-greater-kailas"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "82970-312560",
+      "id": "1054178",
+      "name": "Model Town Delhi",
+      "distance": 9.9,
+      "coordinates": {
+        "latitude": 28.70519,
+        "longitude": 77.19015
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Shree Amruk Lal Nanda Marg",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110009"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Shree Amruk Lal Nanda Marg",
+        "New Delhi, DL 110009"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "model-town-delhi-shree-amruk-lal-nanda-marg-new-delhi-dl-110009-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "68760-303876",
+      "id": "1033105",
+      "name": "Malcha Marg",
+      "distance": 9.7,
+      "coordinates": {
+        "latitude": 28.60222,
+        "longitude": 77.1862
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Diplomatic Enclave Block C Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110021"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Diplomatic Enclave Block C Road",
+        "New Delhi, DL 110021"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "malcha-marg-diplomatic-enclave-block-c-road-new-delhi-dl-11002"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "52973-283885",
+      "id": "1020915",
+      "name": "Green Park",
+      "distance": 10.2,
+      "coordinates": {
+        "latitude": 28.55778,
+        "longitude": 77.20247
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Main Market",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Green Market",
+        "city": "Delhi NCR",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110016"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Main Market",
+        "Delhi NCR, DL 110016"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "green-park-main-market-green-market-delhi-ncr-dl-110016-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "19363-201204",
+      "id": "116610",
+      "name": "Select CityWalk",
+      "distance": 10.4,
+      "coordinates": {
+        "latitude": 28.52858,
+        "longitude": 77.219
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Ground Floor",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Select City Walk Mall",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110017"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Ground Floor",
+        "New Delhi, DL 110017"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "select-city-walk-ground-floor-select-city-walk-mall-new-delhi-dl-11"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "47119-256906",
+      "id": "1019329",
+      "name": "Yamuna Express",
+      "distance": 10.6,
+      "coordinates": {
+        "latitude": 28.45318,
+        "longitude": 77.49251
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Taste Express, Yamuna Expressway",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Noida",
+        "countrySubdivisionCode": "UP",
+        "countryCode": "IN",
+        "postalCode": "201310"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Taste Express, Yamuna Expressway",
+        "Noida, UP 201310"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "yamuna-express-taste-express-yamuna-expressway-noida-up-201310-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "23392-229965",
+      "id": "1009477",
+      "name": "R K Puram",
+      "distance": 11,
+      "coordinates": {
+        "latitude": 28.57266,
+        "longitude": 77.17353
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Sangam Courtyard",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Major Somnath Marg, Sector 9, R.K Puram",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110021"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Sangam Courtyard",
+        "New Delhi, DL 110021"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "r-k-puram-sangam-courtyard-major-somnath-marg-sector-9-r-k-p"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "21764-215225",
+      "id": "1006313",
+      "name": "Netaji Subhash Place",
+      "distance": 11.4,
+      "coordinates": {
+        "latitude": 28.69311,
+        "longitude": 77.15194
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Ground Floor, HB Twin Towers",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Netaji Subhash Pl, Pitampura",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110034"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Ground Floor, HB Twin Towers",
+        "New Delhi, DL 110034"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "netaji-subhash-place-ground-floor-hb-twin-towers-netaji-subhash-pl-pita"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "56320-290209",
+      "id": "1023775",
+      "name": "Basant Lok (PVR)",
+      "distance": 11.7,
+      "coordinates": {
+        "latitude": 28.55745,
+        "longitude": 77.16452
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Basant Lok, Vasant Vihar",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Ground Floor, 6 Community Centre",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110057"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Basant Lok, Vasant Vihar",
+        "New Delhi, DL 110057"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "basant-lok-pvr-basant-lok-vasant-vihar-ground-floor-6-community-c"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "24736-238828",
+      "id": "1011414",
+      "name": "DLF Promenade",
+      "distance": 11.6,
+      "coordinates": {
+        "latitude": 28.54257,
+        "longitude": 77.15572
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "First Floor, DLF Promenade",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Vasant Kunj",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110070"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "First Floor, DLF Promenade",
+        "New Delhi, DL 110070"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "dlf-promenade-first-floor-dlf-promenade-vasant-kunj-new-delhi-dl"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "20874-208485",
+      "id": "1005528",
+      "name": "Punjabi Bagh",
+      "distance": 13,
+      "coordinates": {
+        "latitude": 28.66628,
+        "longitude": 77.12532
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "1/83, Ground Floor , Club Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "West Punjabi Bagh",
+        "city": "Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110026"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "1/83, Ground Floor , Club Road",
+        "Delhi, DL 110026"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "punjabi-bagh-1-83-ground-floor-club-road-west-punjabi-bagh-delh"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "18971-197487",
+      "id": "116388",
+      "name": "Vasant Kunj - Ambience Mall",
+      "distance": 13.6,
+      "coordinates": {
+        "latitude": 28.54077,
+        "longitude": 77.15508
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "1st Floor, Ambience Mall",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Nelson Mandela Marg",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110070"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "1st Floor, Ambience Mall",
+        "New Delhi, DL 110070"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "vasant-kunj-ambience-mall-1st-floor-ambience-mall-nelson-mandela-marg-new-de"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "80553-309818",
+      "id": "1051751",
+      "name": "Rajouri Garden",
+      "distance": 14.1,
+      "coordinates": {
+        "latitude": 28.6416,
+        "longitude": 77.12274
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Major Sudesh Marg",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110027"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Major Sudesh Marg",
+        "New Delhi, DL 110027"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "rajouri-garden-major-sudesh-marg-new-delhi-dl-110027-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "54334-283883",
+      "id": "1022091",
+      "name": "R-Cube Mall",
+      "distance": 14.7,
+      "coordinates": {
+        "latitude": 28.65105,
+        "longitude": 77.12126
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Rajouri Garden",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "New Delhi",
+        "city": "Delhi NCR",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110027"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Rajouri Garden",
+        "Delhi NCR, DL 110027"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "r-cube-mall-rajouri-garden-new-delhi-delhi-ncr-dl-110027-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "29491-254065",
+      "id": "1015284",
+      "name": "T3 Domestic Arrivals",
+      "distance": 15.2,
+      "coordinates": {
+        "latitude": 28.56657,
+        "longitude": 77.12376
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "IGI Airport",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110037"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "IGI Airport",
+        "Delhi, DL 110037"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "t-3-domestic-arrivals-igi-airport-delhi-dl-110037-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "23666-296862",
+      "id": "1030309",
+      "name": "Pacific Mall",
+      "distance": 15.4,
+      "coordinates": {
+        "latitude": 28.64256,
+        "longitude": 77.10629
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Subhash Nagar",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Ground Floor, Pacific Mall",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110018"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Subhash Nagar",
+        "New Delhi, DL 110018"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "pacific-mall-subhash-nagar-ground-floor-pacific-mall-new-delhi-"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "53545-285749",
+      "id": "1020494",
+      "name": "WorldMark Aerocity - New Delhi",
+      "distance": 15.7,
+      "coordinates": {
+        "latitude": 28.54968,
+        "longitude": 77.12113
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Aerocity",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Indira Gandhi International Airport",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110037"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Aerocity",
+        "New Delhi, DL 110037"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "world-mark-aerocity-new-delhi-aerocity-indira-gandhi-international-airport-new-d"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "81288-310596",
+      "id": "1052431",
+      "name": "Paschim Vihar",
+      "distance": 15.9,
+      "coordinates": {
+        "latitude": 28.66619,
+        "longitude": 77.09276
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "SERVICE Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110063"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "SERVICE Road",
+        "New Delhi, DL 110063"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "paschim-vihar-service-road-new-delhi-dl-110063-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "78519-308528",
+      "id": "1045075",
+      "name": "Pebbles Faridabad",
+      "distance": 16.3,
+      "coordinates": {
+        "latitude": 28.38593,
+        "longitude": 77.31411
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "SERVICE Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Faridabad",
+        "countrySubdivisionCode": "HR",
+        "countryCode": "IN",
+        "postalCode": "121007"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "SERVICE Road",
+        "Faridabad, HR 121007"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "pebbles-faridabad-service-road-faridabad-hr-121007-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "81592-310970",
+      "id": "1052827",
+      "name": "Pacific Faridabad",
+      "distance": 16.6,
+      "coordinates": {
+        "latitude": 28.38627,
+        "longitude": 77.29905
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "K C Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Faridabad",
+        "countrySubdivisionCode": "HR",
+        "countryCode": "IN",
+        "postalCode": "121001"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "K C Road",
+        "Faridabad, HR 121001"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "pacific-faridabad-k-c-road-faridabad-hr-121001-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "19513-197406",
+      "id": "113947",
+      "name": "T3 International Departure",
+      "distance": 17,
+      "coordinates": {
+        "latitude": 28.55632,
+        "longitude": 77.1025
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "International Departure",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Near Gate 15, Terminal  3",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110037"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "International Departure",
+        "New Delhi, DL 110037"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "t-3-international-departure-international-departure-near-gate-15-terminal-3-ne"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "19514-197404",
+      "id": "113948",
+      "name": "T3 Domestic Departure",
+      "distance": 18,
+      "coordinates": {
+        "latitude": 28.55771,
+        "longitude": 77.0975
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Domestic Departure",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Near Gate 27, Terminal  3",
+        "city": "New Delhi",
+        "countrySubdivisionCode": "DL",
+        "countryCode": "IN",
+        "postalCode": "110037"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Domestic Departure",
+        "New Delhi, DL 110037"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "t-3-domestic-departure-domestic-departure-near-gate-27-terminal-3-new-del"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "18973-197486",
+      "id": "1005441",
+      "name": "Ambience Island",
+      "distance": 19.4,
+      "coordinates": {
+        "latitude": 28.50391,
+        "longitude": 77.09743
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Ground Floor, Ambience Mall",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Ambience Island, NH 8",
+        "city": "Gurgaon",
+        "countrySubdivisionCode": "HR",
+        "countryCode": "IN",
+        "postalCode": "110011"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Ground Floor, Ambience Mall",
+        "Gurgaon, HR 110011"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "ambience-island-ground-floor-ambience-mall-ambience-island-nh-8-gu"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "80646-309924",
+      "id": "1051373",
+      "name": "DLF Downtown",
+      "distance": 20.5,
+      "coordinates": {
+        "latitude": 28.50362,
+        "longitude": 77.09528
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "DLF Phase 3",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Gurugram",
+        "countrySubdivisionCode": "HR",
+        "countryCode": "IN",
+        "postalCode": "122002"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "DLF Phase 3",
+        "Gurugram, HR 122002"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "dlf-downtown-dlf-phase-3-gurugram-hr-122002-in"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "61985-296485",
+      "id": "1028338",
+      "name": "DLF Cyber Park",
+      "distance": 23.6,
+      "coordinates": {
+        "latitude": 28.50319,
+        "longitude": 77.08989
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "DLF Cyber Park, Undyog Vihar Phase 2",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Unit GF 15, Ground Floor",
+        "city": "Gurgaon",
+        "countrySubdivisionCode": "HR",
+        "countryCode": "IN",
+        "postalCode": "122008"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "DLF Cyber Park, Undyog Vihar Phase 2",
+        "Gurgaon, HR 122008"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "dlf-cyber-park-dlf-cyber-park-undyog-vihar-phase-2-unit-gf-15-gro"
+    },
+    {
+      "recommendation": {
+        "isUsual": false
+      },
+      "storeNumber": "21652-213925",
+      "id": "1006243",
+      "name": "DLF Cyber Hub",
+      "distance": 25.6,
+      "coordinates": {
+        "latitude": 28.49549,
+        "longitude": 77.08885
+      },
+      "regulations": [
+      ],
+      "address": {
+        "streetAddressLine1": "Ground Floor",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "DLF Cyber Hub, Phase II",
+        "city": "Gurgaon",
+        "countrySubdivisionCode": "HR",
+        "countryCode": "IN",
+        "postalCode": "122002"
+      },
+      "timeZoneInfo": {
+        "currentTimeOffset": 330,
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:50 Asia/Calcutta"
+      },
+      "brandName": "Starbucks",
+      "ownershipTypeCode": "JV",
+      "curbside": {
+        "state": "notSupported"
+      },
+      "acceptsNonSvcMop": false,
+      "open": null,
+      "openStatusText": "",
+      "warnings": null,
+      "addressLines": [
+        "Ground Floor",
+        "Gurgaon, HR 122002"
+      ],
+      "mop": {
+        "ready": false,
+        "wait": null
+      },
+      "features": [
+      ],
+      "slug": "dlf-cyber-hub-ground-floor-dlf-cyber-hub-phase-ii-gurgaon-hr-122"
+    }
+  ]
+}
